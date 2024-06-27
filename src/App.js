@@ -1,25 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import ParticlesBg from 'particles-bg'
+import ToDo from './containers/ToDo'
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <>
+            <ToDo />
+            <ParticlesBg type="cobweb" bg={true} color="f6f6f6" num="80" />
+        </>
+      )
 }
 
 export default App;
