@@ -1,14 +1,15 @@
 # To do list developed with React
 
-This project was developed as part of the online course "REACT" in collaboration with Krojačeva škola online learning platform. You can access the course by pressing the following [link](https://www.krojacevaskola.com/kursevi/online/react).
+This project was developed as part of the online course "REACT" in collaboration with [Krojačeva škola](https://www.krojacevaskola.com/) online learning platform. You can access the course by pressing the following [link](https://www.krojacevaskola.com/kursevi/online/react).
+<br>
 
-React To-Do list utilizing Tailwind CSS, React Hooks, Context API and much more. It includes the following functionalities:
-✅ Adding individual tasks based on user's input.
-✅ Crossing off completed tasks.
-✅ Deleting individual tasks.
-✅ Deleting all tasks at once.
-✅ Displaying the total number of remaining tasks.
-✅ Saving entered data even after closing the application.
+React To-Do list utilizing <b>Tailwind CSS</b>,<b> React Hooks </b>, <b>Context API </b> and much more. It includes the following functionalities:
+<br>&emsp;✅ Adding individual tasks based on user's input.
+<br>&emsp;✅ Crossing off completed tasks.
+<br>&emsp;✅ Deleting individual tasks.
+<br>&emsp;✅ Deleting all tasks at once.
+<br>&emsp;✅ Displaying the total number of remaining tasks.
+<br>&emsp;✅ Saving entered data even after closing the application.
 
 ## Want to give it a try?
 
