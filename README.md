@@ -11,7 +11,10 @@ React To-Do list utilizing <b>Tailwind CSS</b>,<b> React Hooks </b>, <b>Context 
 <br>&emsp;✅ Displaying the total number of remaining tasks.
 <br>&emsp;✅ Saving entered data even after closing the application.
 
-## Screenshots
+## Preview
+
+![To Do - screenshot](https://raw.githubusercontent.com/djordjevicv/react-todo/refs/heads/screenshots/todo-screenshots/todo1.png "To Do - screenshot")
+
 
 ## Want to give it a try?
 
