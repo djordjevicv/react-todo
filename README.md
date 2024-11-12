@@ -2,7 +2,6 @@
 
 This project was developed as part of the online course "REACT" in collaboration with [Krojačeva škola](https://www.krojacevaskola.com/) online learning platform. You can access the course by pressing the following [link](https://www.krojacevaskola.com/kursevi/online/react).
 <br>
-
 React To-Do list utilizing <b>Tailwind CSS</b>,<b> React Hooks </b>, <b>Context API </b> and much more. It includes the following functionalities:
 <br>&emsp;✅ Adding individual tasks based on user's input.
 <br>&emsp;✅ Crossing off completed tasks.
